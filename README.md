@@ -19,3 +19,18 @@ Para acceder al Tp de LabIV, ingresar al link de abajo:
  ![](img/branchV3.png "Hago el Pull Request en Git")
 
  ![](img/branchV4.png "Se visualiza las comparaciones que los archivos")
+
+
+### __5) Mergear código con conflictos__
+
+Ya una vez clonado y modificado el archivo CV.md, paso a realizar....
+* Intentar subir el cambio, haciendo un commit y push. Mostrar el error que se obtiene.
+
+ ![](img/mergear.png "Visualizacion del error")
+
+
+* Hacer pull y mergear el código (solo texto por ahora), mostrar la herramienta de mergeo como luce.
+
+ ![](img/mergearV2.png "Visualizacion del estado")
+
+ ![](img/mergearV3.png "Visualizacion de las ramas con SmartGit")
